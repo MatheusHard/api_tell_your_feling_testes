@@ -11,6 +11,9 @@ namespace WebApplication2_Wep_API.Models
         public string Erros { get; set; }
         public RespostaCodigo RespostaCodigo { get; set; }
         public PerguntaTipo PerguntaTipo { get; set; }
+        public string Latitude { get; set; }
+        public string Longitude { get; set; }
+        public string EnderecoIp { get; set; }
 
 
 
