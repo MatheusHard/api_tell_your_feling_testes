@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CuadXYsaGRRzuxOfL+aLl58ThMt8ko2wRd0FgS4nVCeaXzzeydPqq1tSN1Ka3iKs2FNdCls/d7czkqD/wBZAEw==",
+  "dgSpecHash": "NVLjrpmNjCunCeNPag1G8Z/O3PPiu3irYkzT9h1C0aIPOEcwC5tGZIabR/D7iRQsiENtPnOL1UreN6/5t4OrHA==",
   "success": true,
   "projectFilePath": "C:\\Projetos_DotNet\\WebApplication2_Wep_API\\WebApplication2_Wep_API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Matheus Hardman\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Matheus Hardman\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "C:\\Users\\Matheus Hardman\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Matheus Hardman\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\Matheus Hardman\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
     "C:\\Users\\Matheus Hardman\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.2\\microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",

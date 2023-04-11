@@ -36,3 +36,4 @@ C:\Projetos_DotNet\WebApplication2_Wep_API\bin\Debug\net7.0\Microsoft.EntityFram
 C:\Projetos_DotNet\WebApplication2_Wep_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Projetos_DotNet\WebApplication2_Wep_API\bin\Debug\net7.0\MySqlConnector.dll
 C:\Projetos_DotNet\WebApplication2_Wep_API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos_DotNet\WebApplication2_Wep_API\bin\Debug\net7.0\AutoMapper.dll
