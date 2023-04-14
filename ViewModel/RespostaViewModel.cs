@@ -16,5 +16,6 @@ namespace WebApplication2_Wep_API.Models
         public string EnderecoIp { get; set; }
 
 
+
     }
 }

@@ -76,7 +76,8 @@ namespace WebApplication2_Wep_API.Controllers
             Usuario u2 = new Usuario 
                                     {Ativo = false, Email = "cururu@gmail.com", Nome = "Luana Costa", Password = "125454", 
                                      Id = Guid.Parse("7c9e6679-7425-40de-944b-e07fc1f90ae7"), Cpf = "05668554521", DataDeNascimento = DateTime.MinValue,
-                                    EscolaId = Guid.Parse("7fab3195-ba9d-4ad6-8dac-2167a8aa75f1"), TurmaId = Guid.Parse("9cf1efca-40cc-4f87-a40b-a531167de3eb")
+                                    EscolaId = Guid.Parse("7fab3195-ba9d-4ad6-8dac-2167a8aa75f1"), TurmaId = Guid.Parse("b2ae4c50-c348-46df-bbc0-d259eda7d8f0")
+
             };
             usuarios.Add(u1);
             usuarios.Add(u2);

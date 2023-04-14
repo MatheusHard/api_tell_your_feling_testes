@@ -103,9 +103,9 @@ namespace WebApplication2_Wep_API.Controllers
                 DataCadastro = DateTime.Now,
                 EnderecoIp = "192.168.0.6",
                 Latitude = "1254.221252",
-                Longitude  = "55415",
+                Longitude = "55415",
                 StatusEnvio = StatusEnvio.A_ENVIAR,
-                PerguntaTipo = PerguntaTipo.COLEGAS
+                PerguntaTipo = PerguntaTipo.COLEGAS,
 
 
 
@@ -123,7 +123,8 @@ namespace WebApplication2_Wep_API.Controllers
                 Latitude = "1254.ew221252",
                 Longitude = "55415",
                 StatusEnvio = StatusEnvio.ENVIADO,
-                PerguntaTipo = PerguntaTipo.PROFESSORES
+                PerguntaTipo = PerguntaTipo.PROFESSORES,
+
             };
             lista.Add(u1);
             lista.Add(u2);
